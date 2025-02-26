@@ -48,4 +48,4 @@ You can download my resume from the following link:
 
 ## 📬 Contact Me
 - **Email**: [adarshsingh9818@gmail.com](mailto:adarshsingh9818@gmail.com)
-- **LinkedIn**: [linkedin.com/in/adarsh-singh-584107309](https://www.linkedin.com/in/adarsh-singh-584107309/))
+- **LinkedIn**: [linkedin.com/in/adarsh-singh-584107309](https://www.linkedin.com/in/adarsh-singh-584107309/)
