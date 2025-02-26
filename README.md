@@ -38,7 +38,7 @@ Here are some of the projects I’ve worked on:
 ## 📑 Resume
 You can download my resume from the following link:
 
-[Download Resume](adarsh99180/myresume.pdf)
+[Download Resume](https://adarsh98180.github.io/Adarsh98180/myresume.pdf)
 
 ## 🎓 Achievements & Certifications
 - **Fundamentals of Python Programming** – iHUB Divya Sampark, IIT Roorkee
