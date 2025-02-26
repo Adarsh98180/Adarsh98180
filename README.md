@@ -47,5 +47,5 @@ You can download my resume from the following link:
 - **Data Analytics with Specialization**
 
 ## 📬 Contact Me
-- **Email**: [your-email@example.com](mailto:adarshsingh9818@gmail.com)
-- **LinkedIn**: [linkedin.com/in/adarsh-singh]([https://www.linkedin.com/in/adarsh-singh](https://www.linkedin.com/in/adarsh-singh-584107309/))
+- **Email**: [adarshsingh9818@gmail.com](mailto:adarshsingh9818@gmail.com)
+- **LinkedIn**: [linkedin.com/in/adarsh-singh-584107309](https://www.linkedin.com/in/adarsh-singh-584107309/))
